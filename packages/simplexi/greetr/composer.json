@@ -1,7 +1,7 @@
 {
-    "name": "simplexi/greetr",
+    "name": "kipaw/greetr",
     "description": "Greetr - A simple Laravel package.",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
             "email": "francis01@simplexi.com.ph"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Simplexi\\Greetr\\": "src/"
